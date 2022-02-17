@@ -1,24 +1,11 @@
-# README
+# README - WIP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## File cabinet
 
-Things you may want to cover:
+### A slight inspiration of google drive, evernote, thinkery
 
-* Ruby version
+Task 1
+- work out the BE logic
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Task 2
+- work out FE design 
